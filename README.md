@@ -1,8 +1,8 @@
 ## Hi there 😄
 
-### My name is Bry (pronouns he/him), and welcome to my wonderful journey of learning to be a developer!
+### My name is Bry (pronouns he/him), and welcome to my journey on breaking into the tech industry!
 
-🌱 I am currently in the process of learning Javascript, HTML, and CSS with plans to learn Python, Ruby, and SQL in the near future!
+🌱 I am a beginner fullstack developer, with experience in JavaScript, React.js, React Bootstrap, SQL (SQLite and SQLAlchemy) Flask, Python, HTML, and CSS
 <br>
 <br>
 🤔 I’m always looking for help to streamline and better my coding practices, so please feel free to backseat on any of my projects and throw some tips and tricks my way!
