@@ -11,7 +11,4 @@
 ⚡ Fun fact: Gaming is my biggest hobby, and Genshin Impact is my all-time favorite video game. I have _almost_ all of the 5 star characters in the game (RIP my wallet)!
 <br>
 <br>
-📫 You can reach me via email at brian.ashman@comcast.net
-<br>
-<br>
 📚 Check out my DEV Blog: https://dev.to/brythewiseguy
